@@ -36,7 +36,7 @@ cookie-factory = "0.3.1"
 nom = { version = "7", default-features = false, features = ["alloc"] }
 
 # Secret management
-secrecy = "0.8"
+secrecy = "0.7.0"
 
 # Plugin backend
 io_tee = "0.1.1"
